@@ -14,4 +14,4 @@ Next steps :
 
 What I can't help you with : IEEE access to the papers themselves :( Most of them are paid. 
 
-What I can help you with however : If you wanted to search for articles and mail the URLS to someone who DID have access, this is the (WIP)tool for you. 
+What I can help you with however : If you wanted to search for articles and mail the URLS to someone who DID have access, this is the (WIP) tool for you. 
