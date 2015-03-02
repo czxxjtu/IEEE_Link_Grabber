@@ -4,8 +4,10 @@ Input : Take as input a query string, the topic on which IEEE links are to be ob
 
 Output : All the links on Page 1 of the IEEEXPLORE website returned as results for the input
 
-Next steps : 
-   
+Prerequisites : Run  "pip install BeautifulSoup"
+
+TO-DO Action Items:
+
     1) Modify the program to grab Titles of papers as well along with said URLs. 
     
     2) Increase Pagination
