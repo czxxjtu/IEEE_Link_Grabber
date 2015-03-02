@@ -1,15 +1,16 @@
 # IEEELinkGrabber
 
 Input : Take as input a query string, the topic on which IEEE links are to be obtained
+
 Output : All the links on Page 1 of the IEEEXPLORE website returned as results for the input
 
 Next steps : 
    
-    Modify the program to grab Titles of papers as well along with said URLs. 
+    1) Modify the program to grab Titles of papers as well along with said URLs. 
     
-    Increase Pagination
+    2) Increase Pagination
     
-    Make a GUI using Tkinter or Kivy.
+    3) Make a GUI using Tkinter or Kivy.
 
 What I can't help you with : IEEE access to the papers themselves :( Most of them are paid. 
 
