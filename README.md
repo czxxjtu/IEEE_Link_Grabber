@@ -11,6 +11,8 @@ Next steps :
     2) Increase Pagination
     
     3) Make a GUI using Tkinter or Kivy.
+    
+    4) Make a generic version of the code to make it applicable in sites other than IEEE
 
 What I can't help you with : IEEE access to the papers themselves :( Most of them are paid. 
 
