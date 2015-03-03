@@ -8,13 +8,13 @@ Prerequisites : Run  "pip install BeautifulSoup"
 
 TO-DO Action Items:
 
-    1) Modify the program to grab Titles of papers as well along with said URLs. 
+1) Modify the program to grab Titles of papers as well along with said URLs. 
     
-    2) Increase Pagination
+2) Increase Pagination
     
-    3) Make a GUI using Tkinter or Kivy.
+3) Make a GUI using Tkinter or Kivy.
     
-    4) Make a generic version of the code to make it applicable in sites other than IEEE
+4) Make a generic version of the code to make it applicable in sites other than IEEE
 
 What I can't help you with : IEEE access to the papers themselves :( Most of them are paid. 
 
